@@ -1,1 +1,3 @@
 ini tes latihan add
+
+ini tambahan langsung ya dari github
